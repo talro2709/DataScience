@@ -1,1 +1,1 @@
-this is my first data science course folder
+this is a new try
